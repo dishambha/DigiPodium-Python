@@ -13,3 +13,6 @@ print(movies.index("shang-chi"))
 dup_movies=movies.copy()
 print(dup_movies)
 
+#clear function 
+movies.clear()
+print(movies)
