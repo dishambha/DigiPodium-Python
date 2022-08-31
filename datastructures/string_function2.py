@@ -1,7 +1,4 @@
 #string validation functions
-
-
-
 value = input("ENTER SOMETHING:")
 
 #test
@@ -17,4 +14,3 @@ if value.isupper():
     print("UPPER CASE ALPHABETS",value.isupper())
 if value.islower():
     print("Lowercase Alphabets",value.islower())
-

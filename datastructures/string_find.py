@@ -15,7 +15,7 @@ else:
 print("is:",msg.find("is"))
 print("is:",msg.index("is"))
 
-print(msg.find("is",3,7))#3 is the starting point for searching
+print("is:",msg.find("is",3,7))#3 is the starting point for searching
 
 
 print("to",msg.find("to"))
