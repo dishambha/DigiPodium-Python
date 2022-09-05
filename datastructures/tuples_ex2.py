@@ -1,0 +1,5 @@
+input_tuple= input("enter")
+tuple1 = tuple(input_tuple.split(","))
+input_tuple1=input("enter miore")
+tuple2 = tuple(input_tuple1.split(","))
+print(tuple1+tuple2)

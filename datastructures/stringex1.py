@@ -1,5 +1,4 @@
-
-msg = input("ENTER THE sentence=>")
+msg = input("ENTER THE SENTENCE=>")
 new_msg = msg
 for vowel in "aeiou":
     new_msg=(new_msg.lower().replace(vowel,""))

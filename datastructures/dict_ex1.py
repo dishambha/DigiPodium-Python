@@ -1,5 +1,4 @@
-info = ["Mistborn","The final Empire","Brandon Sandors","tor.com",2099,2002]
-
+#info = ["Mistborn","The final Empire","Brandon Sandors","tor.com",2099,2002]
 info_dict = {
     "SERIES":"Mistborn",
     "TITLE":"The Final Empire",
