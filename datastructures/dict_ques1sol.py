@@ -2,7 +2,6 @@ contacts = {
     "emergency": 101,
     "police" : 100
 }
-
 while True:
     print("# options ")
     print("search person")
@@ -26,4 +25,3 @@ while True:
         break
     else:
         print(" X wrong input X")
-       
