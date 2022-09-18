@@ -13,15 +13,20 @@ class cat:
 
     def description(self):
         print(f"cat is {self.age} years old")
-        print(f"cat is {self.color} years old")
-        print(f"cat is {self.breed} years old")
+        print(f"cat is {self.color} is color")
+        print(f"cat is {self.breed} breed")
 
 #object 
 tom = cat() #()is to call the constructor the class
 
 tom.eat()
 tom.play()
-tom.description() 
+tom.description()
+
+tom.age = 3
+tom.breed = "british shorthair"
+tom.color = "grey"
+tom.description()
 
 
 
