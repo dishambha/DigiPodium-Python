@@ -1,16 +1,16 @@
 contacts ={
     "Dishambha":{
         "name": "dishambha",
-        "contact": 9369879498
+        "contact": 9262425724
     },
     "gaurvanvita":{
         "name": 'gaurvanvita',
-        "contact": 9044388808
+        "contact": 7014262526
 
     },
     "mummy":{
         "name": "anamika",
-        "contact": 7007986810
+        "contact": 8163490165
 
     }
 }
