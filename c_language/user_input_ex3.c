@@ -2,10 +2,10 @@
 #include<conio.h>
 int main()
 {
-    char name;
+    char name[20];
     printf("ENTER YOUR NAME:");
-    scanf("%c", &name);
-    printf("your name is %c", name);
+    scanf("%s", name);
+    printf("your name is %s", name);
     
     return 0;
 }
