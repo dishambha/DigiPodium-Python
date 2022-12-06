@@ -10,3 +10,4 @@ st.set_page_config(
 
 st.title("GET ALL YOUR NOTES HERE")
 st.info("THIS APP IS BUILD TO KEEP ALL NOTES AND ASSIGNMENT AT ONE PLACE")
+df = pd.read_csv("laptop_data.csv")
